@@ -20,7 +20,7 @@ Use your Minecraft username
 ```
 
 
-# 5Zig (Defuct)
+# 5Zig (Defunct)
 Use UUID without dashes.
 ```
    final MinecraftProfileTexture minecraftProfileTexture = new MinecraftProfileTexture("http://textures.5zig.net/textures/2/" + Utils.getUUIDWithoutDashes(gameProfile.getId()), new HashMap());
