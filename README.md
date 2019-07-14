@@ -1,5 +1,8 @@
 # Minecraft-Cape-Checker
 Minecraft Cape Check Concept
+```
+   url = "https://minecraftskinstealer.com/api/v1/skin/download/bust/" + username
+```
 
 # OptiFine
 Use your Minecraft username
