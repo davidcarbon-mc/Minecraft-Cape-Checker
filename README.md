@@ -18,7 +18,10 @@ Use your Minecraft username
 ```
    String CapeUrl = "https://minecraftcapes.co.uk/gallery/grab-player-capes/" + username;
 ```
-
+Use UUID without dashes.
+```
+   String CapeUrl = "https://www.minecraftcapes.co.uk/getCape/" + getUUIDWithoutDashes();
+```
 
 # 5Zig (Defunct)
 Use UUID without dashes.
